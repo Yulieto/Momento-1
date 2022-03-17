@@ -1,0 +1,26 @@
+1. Que diferencia hay entre = y ==
+El igual (=) se usa para darle el valor a una variable, mientras que el (==) se trata de una equivalencia, o el igual real al realizar un algoritmo o código
+
+2. cuales son los tipos de datos básico de java
+
+las variables int, 
+short,
+long,
+double,
+float,
+single,
+boolean,
+byte,
+char,
+los string (cadena), los metodos.
+
+3 Quién es la empresa que actualmente se encarga de mantener el desarrollo de
+java
+
+Oracle es la empresa que actualmente se encarga de mantener Java
+
+4. En qué otros campos se puede utilizar java para crear software
+
+Java se usa para crear tanto aplicaciones moviles como softwares directos para computadores. Con java se puede jugar en un mini dispositivo, hasta cargar aplicaciones anteriores, se pueden cargar cursos en linea, participar en juegos, deportes,usar el banco, usar redes sociales y más.
+
+5.
